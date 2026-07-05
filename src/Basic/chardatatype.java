@@ -7,7 +7,8 @@ public class chardatatype {
         char ajay = 's';
         System.out.println(ajay);
         char vishal = 'b';
-        System.out.println(vishal);
+        System.out.println(ajay);
+        System.out.println("Github ");
 
     }
 
